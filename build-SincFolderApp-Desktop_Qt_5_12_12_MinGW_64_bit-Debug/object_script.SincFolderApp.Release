@@ -1,0 +1,10 @@
+release/clientserver.o
+release/conwindow.o
+release/main.o
+release/mainwindow.o
+release/user.o
+release/qrc_res.o
+release/moc_clientserver.o
+release/moc_conwindow.o
+release/moc_mainwindow.o
+release/moc_user.o

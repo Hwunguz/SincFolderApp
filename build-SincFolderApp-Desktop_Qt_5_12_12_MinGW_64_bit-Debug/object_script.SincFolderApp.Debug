@@ -1,0 +1,10 @@
+debug/clientserver.o
+debug/conwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/user.o
+debug/qrc_res.o
+debug/moc_clientserver.o
+debug/moc_conwindow.o
+debug/moc_mainwindow.o
+debug/moc_user.o
